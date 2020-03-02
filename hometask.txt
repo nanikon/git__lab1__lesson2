@@ -1,0 +1,3 @@
+Различия:
+- Существует этот файл в master, а в demo нет
+- В master более длинный файл README, есть указание про пуговиицы: "with nice buttons on his jacket (buttons branch)", тогда как в demo этого отрвыка нет
