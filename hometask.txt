@@ -1,3 +1,19 @@
 Различия:
 - Существует этот файл в master, а в demo нет
 - В master более длинный файл README, есть указание про пуговиицы: "with nice buttons on his jacket (buttons branch)", тогда как в demo этого отрвыка нет
+Видно 11 коммитов, 6 от создателей, и 5 от меня
+От создателей:
+- init
+- heat added
+- boots
+- README added
+- dots
+- fix readme
+От меня:
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+- Merge remote-tracking branch 'origin/hat'
+- Merge branch 'boots_buttons'
+- merge "boots" and "buttons" into "boots_buttons"
+А если считать этот, то 12, и от меня 6
+- supplemented hometask.txt
